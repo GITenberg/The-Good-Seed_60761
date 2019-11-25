@@ -1,11 +1,16 @@
 _repo: The-Good-Seed_60761
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60761-h/images/cover.jpg
 creator:
   author:
     agent_name: Mallory, Mark
     gutenberg_agent_id: '51131'
     url: http://www.gutenberg.org/2009/agents/51131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60761#The-Good-Seed
 gutenberg_issued: '2019-11-22'
 gutenberg_type: Text
 identifiers:
